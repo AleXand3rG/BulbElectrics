@@ -9,9 +9,6 @@ SVG file can be later opened in browser or in SVG files editor and display creat
 ## Table of Contents
 
 - [Installation](#installation)
-- [Documentation](#documentation)
-- [FAQ](#faq)
-- [Support](#support)
 - [License](#license)
 
 ---
