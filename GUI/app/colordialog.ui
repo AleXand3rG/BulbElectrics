@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>colordialog</class>
+ <widget class="QDialog" name="colordialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>225</width>
+    <height>325</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>225</width>
+    <height>325</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>225</width>
+    <height>325</height>
+   </size>
+  </property>
+  <property name="mouseTracking">
+   <bool>false</bool>
+  </property>
+  <property name="windowTitle">
+   <string>Color Picker</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QPushButton" name="WhiteButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: white;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="1">
+    <widget class="QPushButton" name="SilverButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: silver;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="2">
+    <widget class="QPushButton" name="GrayButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: gray;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="3">
+    <widget class="QPushButton" name="BlackButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: black;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QPushButton" name="RedButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: red;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="1">
+    <widget class="QPushButton" name="MaroonButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: maroon;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="2">
+    <widget class="QPushButton" name="YellowButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: yellow;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="3">
+    <widget class="QPushButton" name="OliveButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: olive;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0">
+    <widget class="QPushButton" name="LimeButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: lime;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="1">
+    <widget class="QPushButton" name="GreenButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: green;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="2">
+    <widget class="QPushButton" name="AquaButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: aqua;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="3">
+    <widget class="QPushButton" name="TealButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: teal;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="0">
+    <widget class="QPushButton" name="BlueButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: blue;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="1">
+    <widget class="QPushButton" name="NavyButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: navy;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="2">
+    <widget class="QPushButton" name="FuchsiaButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: fuchsia;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="3">
+    <widget class="QPushButton" name="PurpleButton">
+     <property name="styleSheet">
+      <string notr="true">    	background-color: purple;
+    	border-style: outset;
+	border-radius: 4px;
+    	border-width: 2px;
+    	border-color: gray;</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="0" colspan="4">
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QSlider" name="REDslider">
+       <property name="maximum">
+        <number>255</number>
+       </property>
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QSpinBox" name="REDspinBox">
+       <property name="maximum">
+        <number>255</number>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="5" column="0" colspan="4">
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <widget class="QSlider" name="GREENslider">
+       <property name="maximum">
+        <number>255</number>
+       </property>
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QSpinBox" name="GREENspinBox">
+       <property name="maximum">
+        <number>255</number>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="7" column="0" colspan="4">
+    <layout class="QHBoxLayout" name="horizontalLayout_4">
+     <item>
+      <widget class="QPushButton" name="colorPreview">
+       <property name="enabled">
+        <bool>true</bool>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>40</width>
+         <height>25</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>40</width>
+         <height>25</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: white;
+border-radius: 10px;</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="shortcut">
+        <string/>
+       </property>
+       <property name="autoDefault">
+        <bool>false</bool>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="cancelButton">
+       <property name="text">
+        <string>Cancel</string>
+       </property>
+       <property name="autoDefault">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="OKButton">
+       <property name="font">
+        <font>
+         <kerning>true</kerning>
+        </font>
+       </property>
+       <property name="cursor">
+        <cursorShape>ArrowCursor</cursorShape>
+       </property>
+       <property name="text">
+        <string>OK</string>
+       </property>
+       <property name="default">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="6" column="0" colspan="4">
+    <layout class="QHBoxLayout" name="horizontalLayout_3">
+     <item>
+      <widget class="QSlider" name="BLUEslider">
+       <property name="maximum">
+        <number>255</number>
+       </property>
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="invertedAppearance">
+        <bool>false</bool>
+       </property>
+       <property name="invertedControls">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QSpinBox" name="BLUEspinBox">
+       <property name="maximum">
+        <number>255</number>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

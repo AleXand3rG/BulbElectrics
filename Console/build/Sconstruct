@@ -1,0 +1,12 @@
+compiler='clang++'
+compilerVer='-std=c++11'
+srcDirectory='../src/'
+includeDirectory='../include/'
+srcfiles=Glob(srcDirectory+'/*.cpp')
+target='proe-19l-2.out'
+
+build=Environment(CXX=compiler,CPPFLAGS=compilerVer)
+build.VariantDir('build', 'src', duplicate=0)
+build.Append(CPPPATH=[includeDirectory,])
+build.Append(CPPFLAGS=['-g',])
+build.Program(target,srcfiles)
