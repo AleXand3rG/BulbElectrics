@@ -1,7 +1,3 @@
-
-
-<img src="https://raw.githubusercontent.com/AleXand3rG/BulbElectrics/master/resources/project_pic.jpg?token=ALSJRSXCGIS3WUPXOK2PSVC6NA2QE">
-
 # BulbElectrics //PROE-19L-2
 
 > Second Project this year (2019)
