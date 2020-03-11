@@ -1,5 +1,3 @@
-<a href="https://gitlab-stud.elka.pw.edu.pl/agrzybow/proe-19l-2"><img src="https://gitlab-stud.elka.pw.edu.pl/agrzybow/proe-19l-2/raw/master/resources/project_pic.jpg"></a>
-
 # BulbElectrics //PROE-19L-2
 
 > Second Project this year (2019)
