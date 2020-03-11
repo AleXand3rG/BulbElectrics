@@ -27,11 +27,11 @@ SVG file can be later opened in browser or in SVG files editor and display creat
 
 ## Tests
 
-- <a href="https://youtu.be/kqr-6qE_7JU"><img src="https://raw.githubusercontent.com/AleXand3rG/BulbElectrics/master/resources/project_pic.jpg?token=ALSJRSXCGIS3WUPXOK2PSVC6NA2QE">Watch Video</a>.
+- <a href="https://youtu.be/kqr-6qE_7JU">Watch Video</a>.
 
 ---
 
-[![Watch the video](https://gitlab-stud.elka.pw.edu.pl/agrzybow/proe-19l-1/raw/master/resources/BulbTests.png)](https://youtu.be/kqr-6qE_7JU)
+[![Watch the video](https://raw.githubusercontent.com/AleXand3rG/BulbElectrics/master/resources/project_pic.jpg?token=ALSJRSXCGIS3WUPXOK2PSVC6NA2QE)](https://youtu.be/kqr-6qE_7JU)
 
 ---
 
