@@ -24,11 +24,7 @@ SVG file can be later opened in browser or in SVG files editor and display creat
 
 ### Clone
 
-- Clone this repo to your local machine using ``
-
-## Documentation
-
----
+- Clone this repo to your local machine using `git clone`
 
 ## Tests
 
@@ -37,19 +33,6 @@ SVG file can be later opened in browser or in SVG files editor and display creat
 ---
 
 [![Watch the video](https://gitlab-stud.elka.pw.edu.pl/agrzybow/proe-19l-1/raw/master/resources/BulbTests.png)](https://youtu.be/kqr-6qE_7JU)
-
----
-
-## FAQ
-
-- **Why do You, *students*, don't think?**
-    - We still don't have an answer... 
-
----
-
-## Support
-
-- Mail us at *agrzybow@mion.elka.pw.edu.pl* or *Daniel*
 
 ---
 
