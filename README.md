@@ -33,4 +33,4 @@ SVG file can be later opened in browser or in SVG files editor and display creat
 
 ## License
 
-- © Copyright 2018-2021 Aleksander Grzybowski.
+- © Copyright 2018-2022 Aleksander Grzybowski.
